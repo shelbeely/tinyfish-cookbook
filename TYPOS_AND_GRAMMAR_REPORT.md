@@ -32,10 +32,10 @@ This document lists all typos and basic grammar mistakes found in the TinyFish C
 - **Should be**: `note: if you're new to github...if you're new to contributing`
 - **Issue**: "your" is possessive; "you're" (you are) is needed here
 
-**Line 55**: Grammar issue - missing apostrophe
+**Line 55**: Grammar issue - incorrect contraction with double auxiliary verb
 - **Current**: `1. Remember to test your new app thoroughly, and make sure it's has a nice `README.md` as described in the above section`
 - **Should be**: `1. Remember to test your new app thoroughly, and make sure it has a nice `README.md` as described in the above section`
-- **Issue**: "it's has" should be "it has" (double auxiliary verb error)
+- **Issue**: "it's has" should be "it has" (double auxiliary verb error - remove the contraction)
 
 ---
 
@@ -85,7 +85,7 @@ MINO_API_KEY=your_tinyfish_api_key
 - **Should be**: `- Mino API key [get one here](https://mino.ai/api-keys)`
 - **Issue**: Missing 'e' in "here"
 
-**Line 121**: Missing space after colon
+**Line 121**: Extra space before colon
 - **Current**: `Prerequisites :`
 - **Should be**: `Prerequisites:`
 - **Issue**: Extra space before colon (minor formatting issue)
