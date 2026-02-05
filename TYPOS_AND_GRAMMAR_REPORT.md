@@ -22,6 +22,8 @@ This document lists all typos and basic grammar mistakes found in the TinyFish C
 
 ### 2. CONTRIBUTING.md
 
+> **Note**: Line 27 contains multiple errors listed below as separate issues.
+
 **Line 27**: Typo "fo" should be "of"
 - **Current**: `note: if your new to github, some of the steps below might seem a bit intimidating if your new to contributing to open source repos, but don't worry they become second nature after a while. And if this is your first time, we'd love to get one fo our engineers to hop on a call with you and guide you through!`
 - **Should be**: `note: if your new to github, some of the steps below might seem a bit intimidating if your new to contributing to open source repos, but don't worry they become second nature after a while. And if this is your first time, we'd love to get one of our engineers to hop on a call with you and guide you through!`
