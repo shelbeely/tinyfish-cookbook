@@ -22,7 +22,7 @@ This document lists all typos and basic grammar mistakes found in the TinyFish C
 
 ### 2. CONTRIBUTING.md
 
-**Line 27**: Missing word "one" in "one of our"
+**Line 27**: Typo "fo" should be "of"
 - **Current**: `note: if your new to github, some of the steps below might seem a bit intimidating if your new to contributing to open source repos, but don't worry they become second nature after a while. And if this is your first time, we'd love to get one fo our engineers to hop on a call with you and guide you through!`
 - **Should be**: `note: if your new to github, some of the steps below might seem a bit intimidating if your new to contributing to open source repos, but don't worry they become second nature after a while. And if this is your first time, we'd love to get one of our engineers to hop on a call with you and guide you through!`
 - **Issue**: Typo "fo" should be "of"
@@ -56,8 +56,8 @@ This document lists all typos and basic grammar mistakes found in the TinyFish C
 - **Should be**: `- Verify it is the anime series, not related content`
 
 **Line 93**: Same escape sequence issue  
-- **Current**: `The app processes the SSE stream to show live browser status updates and provides a "Live View" link via the ```STREAMING\_URL``` event.`
-- **Should be**: `The app processes the SSE stream to show live browser status updates and provides a "Live View" link via the ```STREAMING_URL``` event.`
+- **Current**: `The app processes the SSE stream to show live browser status updates and provides a "Live View" link via the `STREAMING\_URL` event.`
+- **Should be**: `The app processes the SSE stream to show live browser status updates and provides a "Live View" link via the `STREAMING_URL` event.`
 
 **Line 105**: Same escape sequence issue
 - **Current**: `- A TinyFish API Key (\[get one here](https://accounts.mino.ai/sign-in?redirect\_url=https%3A%2F%2Fmino.ai%2Fapi-keys))`
